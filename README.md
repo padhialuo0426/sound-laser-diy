@@ -1,2 +1,10 @@
+<div align="center">
+
+[**简体中文**](./README.md) | [**English**](./README_EN.md)
+
+</div>
+
+---
+
 # sound-laser-diy
 利用 40kHz 超声波载波与空气的非线性效应（自解调）实现音频信号的定向传输，包含完整的调制电路设计与超声波换能器阵列驱动方案

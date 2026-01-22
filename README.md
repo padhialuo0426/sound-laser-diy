@@ -16,7 +16,7 @@
 - [目录](#目录)
 - [简介](#简介)
 - [原理](#原理)
-- [参考资料：](#参考资料)
+- [参考资料](#参考资料)
 
 ---
 
@@ -35,6 +35,6 @@ SoundLaserDIY 是一个基于**超声波参量阵**（**Parametric Array**）纯
 
 - **自解调**：高功率超声波在空气中传播时，由于空气的非线性特性，信号会发生自解调（Self-demodulation），从而在空气中还原出可听的音频信号。
 
-# 参考资料：
+# 参考资料
 - [制作一个像“激光”一样的“音波束”（定向发声）](https://mp.weixin.qq.com/s/M7-jo4bjPv8r1GSZMT0O4w)
 - [Turning Sound Into a Laser](https://www.youtube.com/watch?v=aBdVfUnS-pM)

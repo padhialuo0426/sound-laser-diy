@@ -15,7 +15,7 @@ Using 40kHz ultrasonic carrier and the nonlinear effects of air (self-demodulati
 - [Contents](#contents)
 - [Introduction](#introduction)
 - [Principle](#principle)
-- [References:](#references)
+- [References](#references)
 
 # Introduction
 SoundLaserDIY is a pure hardware open-source project based on **ultrasonic parametric array**. It can modulate audio signals to ultrasonic frequencies and project sound directionally like a laser beam, creating a wonderful acoustic experience where "only specific locations can hear it". This project includes complete modulation circuit design and ultrasonic transducer array drive scheme, suitable for electronics enthusiasts and DIY enthusiasts for learning and practice.
@@ -26,6 +26,6 @@ SoundLaserDIY is a pure hardware open-source project based on **ultrasonic param
 - **Power Amplification**: Through TC4427 (U3-U12) high-speed driver chips, the weak signal is amplified to a power level sufficient to drive the transducer array.
 - **Self-Demodulation**: When high-power ultrasound propagates in the air, due to the nonlinear characteristics of air, the signal undergoes self-demodulation, thereby restoring audible audio signals in the air.
 
-# References:
+# References
 - [制作一个像“激光”一样的“音波束”（定向发声）](https://mp.weixin.qq.com/s/M7-jo4bjPv8r1GSZMT0O4w)
 - [Turning Sound Into a Laser](https://www.youtube.com/watch?v=aBdVfUnS-pM)
